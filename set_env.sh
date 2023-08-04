@@ -9,7 +9,7 @@
 # export AWS_PROFILE=default
 export POSTGRES_USERNAME=postgres
 export POSTGRES_PASSWORD=123456
-export POSTGRES_HOST=127.0.0.1
+export POSTGRES_HOST=host.docker.internal
 export POSTGRES_DB=uda_prj3_cloud
 export JWT_SECRET=testing
 export URL=http://localhost:8100
