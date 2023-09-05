@@ -1,7 +1,7 @@
 {
   "name": "udagram-frontend",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "KhangLTA",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
@@ -28,6 +28,7 @@
     "core-js": "^2.5.4",
     "fsevents": "^2.3.2",
     "rxjs": "~6.5.4",
+    "tslib": "^2.6.1",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {

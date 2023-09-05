@@ -11,12 +11,12 @@ export const feedItemMocks: FeedItem[] = [
     caption: 'Such a cute pup'
     },
     {
-    id: 0,
+    id: 1,
     url: '/assets/mock/xander1.jpg',
     caption: 'Who\'s a good boy?'
     },
     {
-    id: 0,
+    id: 2,
     url: '/assets/mock/xander2.jpg',
     caption: 'Majestic.'
     }
